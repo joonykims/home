@@ -97,12 +97,11 @@ author:
   name             : "Joony Kim"
   avatar           : "images/avata.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IT Consultant"
-  location         : "Somewhere"
+  location         : "Seoul"
   email            : "joonykim@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:joonykim@gmail.com"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
