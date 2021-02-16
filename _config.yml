@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -95,13 +95,14 @@ analytics:
 # Site Author
 author:
   name             : "Joony Kim"
-  avatar           : "images/avata.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/avata.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IT Consultant"
   location         : "Somewhere"
-  email            :
+  email            : "joonykim@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:joonykim@gmail.com"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -130,6 +131,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/joonykims"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
